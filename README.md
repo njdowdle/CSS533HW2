@@ -12,7 +12,9 @@ I used Python version 2.7 and used pip3 to install numpy and matplotlib using th
 
 ```pip3 install matplotlib```
 
-The final step is to make sure the path for input from line
+The final step is to make sure the path for input from line 8:
+
 ``` path = open('/Users/nolandowdle/Desktop/CSC533/HW2/HW2/IL_employee_salary.csv') ``` 
+
 points to the correct directory for your input CSV file.
 You will need to change this to match your path.
